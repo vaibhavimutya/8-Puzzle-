@@ -1,5 +1,5 @@
 # 8-Puzzle-
-CS205
+
 This project is very interesting as it shows how can a good heuristic function can improve the performance of the whole algorithm. In this project 
 I have implemented a search algorithm with and without Heuristics. An Heuristic function is used in Search, and it finds the most promising path. 
 It takes the current state of the agent as its input and produces the estimation of how close agent is from the goal. The search algorithm used 
